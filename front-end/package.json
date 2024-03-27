@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "^3.6.2"
+  }
+}
