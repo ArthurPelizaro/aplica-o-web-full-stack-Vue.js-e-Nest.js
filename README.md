@@ -19,7 +19,7 @@ This is a full-stack web application built with Vue.js for the frontend and Nest
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/ArthurPelizaro/aplica-o-web-full-stack-Vue.js-e-Nest.js.git
 
 
 Navegar até o diretório da aplicação 
@@ -34,7 +34,7 @@ npm start
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/ArthurPelizaro/aplica-o-web-full-stack-Vue.js-e-Nest.js.git
 
 
 Navegar até o diretório da aplicação 
